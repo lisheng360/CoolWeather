@@ -2,7 +2,7 @@
     <dbname value="cool_weather"/>
     <version value="1"/>
     <list>
-        <mapping class="com.example.lisheng.coolweather.db.Proivince"/>
+        <mapping class="com.example.lisheng.coolweather.db.Province"/>
         <mapping class="com.example.lisheng.coolweather.db.City"/>
         <mapping class="com.example.lisheng.coolweather.db.Country"/>
     </list>
